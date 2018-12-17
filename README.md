@@ -14,6 +14,6 @@ The screenshot below shows how the app looks like when it is done.
 ![](http://i.imgur.com/yAtzntJ.jpg)
 
 
-## Franework
+## Framework
 MVP + Retrofit +RXJava+ Picasso + ButterKnife + Material Design
 
